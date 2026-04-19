@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " ComunidadeCraft2026.aternos.me",
+    "ip": "ComunidadeCraft2026.aternos.me",
     "port": 20828,
     "version": "1.21.11",
     "try-creative": false
